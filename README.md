@@ -1,5 +1,9 @@
 # AI Micro Course Creator
 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github)](https://github.com/RanaPriyansh/micro-course-creator)
+[![License](https://img.shields.io/github/license/RanaPriyansh/micro-course-creator)](https://github.com/RanaPriyansh/micro-course-creator/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/RanaPriyansh/micro-course-creator)](https://github.com/RanaPriyansh/micro-course-creator/commits/main)
+
 AI-powered micro course creator for iOS.
 
 ## Features
@@ -19,7 +23,7 @@ Deploy to Vercel, Railway, or Heroku. Set all environment variables.
 
 ## App Store
 iOS app template: iOS/MicroCourseCreator/
-Configure bundle ID: com.thielon.microcoursecreator
+Configure bundle ID: com.appfactory.microcoursecreator
 Set RevenueCat product: AI Micro Course Creator
 
 ## Revenue

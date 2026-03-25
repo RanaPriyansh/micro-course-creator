@@ -5,7 +5,7 @@
     <key>CFBundleDisplayName</key>
     <string>AI Micro Course Creator</string>
     <key>CFBundleIdentifier</key>
-    <string>com.thielon.microcoursecreator</string>
+    <string>com.appfactory.microcoursecreator</string>
     <key>CFBundleName</key>
     <string>MicroCourseCreator</string>
     <key>CFBundlePackageType</key>
